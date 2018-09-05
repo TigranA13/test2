@@ -4,3 +4,8 @@
 	border: 0;
 	font-size: 0;
 }
+
+header {
+	font-size: 28px;
+	font-family: verdana;
+}
